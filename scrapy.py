@@ -1,3 +1,4 @@
+# in coop with chatgpt
 import feedparser
 import openpyxl
 import matplotlib.pyplot as plt
